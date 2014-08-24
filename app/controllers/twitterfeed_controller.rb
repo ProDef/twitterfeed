@@ -1,0 +1,2 @@
+class TwitterfeedController < ApplicationController
+end
